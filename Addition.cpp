@@ -15,5 +15,10 @@ class add
 		cout<<"Subtraction=",c<<endl;
 	}
 	  
-	
+	void multi (int a, int b)
+	{
+		int c;
+		c= a*b;
+		cout<<"Multiplication=",c<<endl;
+	}
 }
